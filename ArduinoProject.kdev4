@@ -1,0 +1,4 @@
+[Project]
+Name=ArduinoProject
+Manager=KDevCMakeManager
+VersionControl=kdevgit

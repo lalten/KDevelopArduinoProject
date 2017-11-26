@@ -1,0 +1,3 @@
+[CustomDefinesAndIncludes][ProjectPath0][Includes]
+1=/opt/arduino/arduino-1.8.5/hardware/tools/avr/avr/include/avr/iom32u4.h
+
